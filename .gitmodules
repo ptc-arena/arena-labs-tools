@@ -1,3 +1,9 @@
 [submodule "PTC-Arena-Slides"]
 	path = PTC-Arena-Slides
 	url = https://github.com/wallcrawler78/PTC-Arena-Slides
+[submodule "google-sheets-generic-integration"]
+	path = google-sheets-generic-integration
+	url = https://github.com/wallcrawler78/google-sheets-generic-integration
+[submodule "PTC-Arena-Docs"]
+	path = PTC-Arena-Docs
+	url = https://github.com/wallcrawler78/PTC-Arena-Docs
